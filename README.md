@@ -1,2 +1,2 @@
-# pokechi
+# Pokeboi
 Created with CodeSandbox
